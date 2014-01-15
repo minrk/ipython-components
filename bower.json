@@ -5,6 +5,7 @@
     "backbone": "~1.1",
     "bootstrap": "~2.3",
     "codemirror": "~3",
+    "cryptojs": "http://crypto-js.googlecode.com/files/CryptoJS%20v3.1.2.zip",
     "font-awesome": "~3.1",
     "highlight.js": "~7",
     "jquery": "~2.0",
