@@ -9,6 +9,7 @@
     "font-awesome": "components/font-awesome#~3.2",
     "highlight.js": "~7",
     "jquery": "components/jquery#~2.0",
+    "jquery-htmlclean": "~1.4",
     "jquery-ui": "components/jqueryui#~1.10",
     "marked": "~0.2",
     "requirejs": "~2.1",
