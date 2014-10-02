@@ -48,6 +48,10 @@ jquery-ui/ui/*/*/*.js
 requirejs/*.sh
 requirejs/dist
 
+bootstrap/grunt
+# fonts is duplicated in dist/fonts
+bootstrap/fonts
+
 bootstrap-tour/src
 bootstrap-tour/build/*/*standalone*
 
